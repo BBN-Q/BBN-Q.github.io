@@ -36,4 +36,4 @@ $ bundle install
 $ ./start_local.sh
 ```
 
-This loads the site at `localhost:4444`.
+This loads the site at `localhost:5555`.
