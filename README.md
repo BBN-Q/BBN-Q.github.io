@@ -5,6 +5,10 @@ https://bbn-q.github.io/
 
 BBN-Q is the Raytheon BBN Technologies quantum group's collection of open source code.  Inside you'll fine instrumentation software, HDL firmware, simulation code and other things we find useful around the lab.
 
+## Updates
+
+The `code.md` and `research.md` files are basically markdown. You can edit them and then just push to the master branch to update the site. The research page is a copy of the Raython page.
+
 ## Building
 
 ### Local Development
