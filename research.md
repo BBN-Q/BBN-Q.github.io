@@ -30,7 +30,9 @@ Our work in quantum algorithms spans two key areas:
 
 ## Quantum Control
 
-<img src="/images/APS2.png" class="align-left" alt="" width="300">Our team develops hardware, gateware and software for dynamic quantum information processing experiments with superconducting qubits. In dynamic experiments, qubit state information is used to change the implemented control sequence in real-time.
+<img src="/images/APS2.png" class="align-center" alt="" width="300">
+
+Our team develops hardware, gateware and software for dynamic quantum information processing experiments with superconducting qubits. In dynamic experiments, qubit state information is used to change the implemented control sequence in real-time.
 <pre>
 
 
@@ -39,7 +41,9 @@ Our work in quantum algorithms spans two key areas:
 
 ### Quantum Control with Cryoelectronics
 
-<img src="/images/Cryo_Control.jpg" class="align-right" alt="" width="300">To build a superconducting quantum computing system, qubits, as well as surrounding classical electronics, must be scalable. We have reported on a key supporting classical technology for microwave controlled superconducting qubits that would enable scaling of a quantum computer beyond impending I/O heat load and bandwidth bottlenecks. And we are exploring applications of scalable cryogenic technologies for qubit systems that include cryogenic digital logic, such as SFQ technology and <br /> superconducting microwave components.
+<img src="/images/Cryo_Control.jpg" class="align-center" alt="" width="300">
+<br />
+To build a superconducting quantum computing system, qubits, as well as surrounding classical electronics, must be scalable. We have reported on a key supporting classical technology for microwave controlled superconducting qubits that would enable scaling of a quantum computer beyond impending I/O heat load and bandwidth bottlenecks. And we are exploring applications of scalable cryogenic technologies for qubit systems that include cryogenic digital logic, such as SFQ technology and <br /> superconducting microwave components.
 
 
 ### High-speed, Low-power, Memory for Cryo-computing
@@ -66,7 +70,8 @@ At Raytheon we are studying parametric amplifiers that have a wide amplification
 
 ### Novel Non-reciprical Microwave Components
 
-<img src="/images/Quantum_Devices_and_Sensors.jpg" class="align-left" alt="" width="300">
+<img src="/images/Quantum_Devices_and_Sensors.jpg" class="align-center" alt="" width="300">
+
 We are also studying different applications of parametric interactions. By exploiting the interference between multiple parametric processes in the same device, we obtain directional amplification and nonreciprocal propagation on a superconducting chip. While commercial RF circulators are usually used for this purpose, they are bulky and noisy components that cannot be integrated with our quantum devices.
 
 ## Optics and Integrated Photonics
@@ -82,5 +87,6 @@ Our group researches optics and integrated photonics for a broad range of applic
   * Integrated photonics at cryogenics
 <br />
 <br />
+
 <img src="/images/Photonics.jpg" class="align-center" alt="" width="600">
 
