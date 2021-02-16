@@ -7,6 +7,12 @@ show_excerpts: false
 
 ## 2020
 
+F. Lecocq, L. Ranzani, G. A. Peterson, K. Cicak, A. Metelmann, S. Kotler, R. W. Simmonds, J. D. Teufel, and J. Aumentado. "Microwave measurement beyond the quantum limit with a nonreciprocal amplifier." [Physical Review Applied 13, no. 4, pp. 044005 (2020)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.044005).
+
+E. Doucet, F. Reiter, L. Ranzani, and A. Kamal. "High fidelity dissipation engineering using parametric interactions." [Physical Review Research 2(2), pp. 023370, (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023370).
+
+M.H. Nguyen, G.J. Ribeill, M.V. Gustafsson, S. Shi, S.V. Aradhya, A.P. Wagner, L.M. Ranzani, L. Zhu, R. Baghdadi, B. Butters, E. Toomey, M. Colangelo, P.A. Truitt, A. Jafari-Salim, D. McAllister, D. Yohannes, S.R. Cheng, R. Lazarus, O. Mukhanov, K.K. Berggren, R.A. Buhrman, G.E. Rowlands & T.A. Ohki, "Cryogenic Memory Architecture Integrating Spin Hall Effect based Magnetic Memory and Superconductive Cryotron Devices", [Scientific Reports, 10(1), pp.1-11, (2020)](https://www.nature.com/articles/s41598-019-57137-9).
+
 L.C.G. Govia, Guilhem Ribeill, Diego Ristè, Matthew Ware and Hari Krovi, "Bootstrapping quantum process tomography via a perturbative ansatz," [Nat Commun 11, 1084 (2020)](https://doi.org/10.1038/s41467-020-14873-1).
 
 ## 2019
