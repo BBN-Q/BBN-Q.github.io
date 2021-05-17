@@ -1,0 +1,10 @@
+version: 1
+updates:
+  # Enable version updates for gem
+  - package-ecosystem: "bundler"
+    # Look for `gemfile` and `lock` files in the `root` directory
+    directory: "/"
+    # Check the gem registry for updates every day (weekdays)
+    schedule:
+      interval: "daily"
+
