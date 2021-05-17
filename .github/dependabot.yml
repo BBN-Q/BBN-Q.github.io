@@ -1,4 +1,4 @@
-version: 1
+version: 2
 updates:
   # Enable version updates for gem
   - package-ecosystem: "bundler"
@@ -7,4 +7,3 @@ updates:
     # Check the gem registry for updates every day (weekdays)
     schedule:
       interval: "daily"
-
