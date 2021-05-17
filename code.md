@@ -19,7 +19,7 @@ Controlling quantum systems is a challenge. To address this challenge, BBN has d
 
 ## Control hardware
 
-Gateware and drivers for controlling BBN Arbitrary Pulse Sequencer (APS) instruments and COTS digitizers from [Alazar](https://www.alazartech.com/en/) and [Interconnect Systems](https://isipkg.com/solutions/sensor-processing/xmc-fpga-cards/)
+Gateware and drivers for controlling BBN Advanced Pulse Sequencer (APS) instruments and COTS digitizers from [Alazar](https://www.alazartech.com/en/) and [Interconnect Systems](https://isipkg.com/solutions/sensor-processing/xmc-fpga-cards/)
 
   * [libaps2](https://github.com/BBN-Q/libaps2) -- control software and drivers for the current generation APS
   * [libaps](https://github.com/BBN-Q/libaps) -- control software and drivers for first generation APS
